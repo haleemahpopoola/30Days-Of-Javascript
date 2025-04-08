@@ -44,3 +44,22 @@ This is my Day 1 log for JavaScript coding. I'm starting with the **basics**—j
 Just a quick script to print out a simple info card using variables.
 
 - [x] Create a simple JavaScript script that stores personal details using variables and logs them as a styled "info card" in the console.
+  
+
+- [x]Coding Challenge #1
+Mark and John are trying to compare their BMI (Body Mass Index), which is
+calculated using the formula:
+BMI = mass / height ** 2 = mass / (height * height) (mass in kg
+and height in meter).
+Your tasks:
+- Store Mark's and John's mass and height in variables
+- Calculate both their BMIs using the formula (you can even implement both
+versions)
+- Create a Boolean variable 'markHigherBMI' containing information about
+whether Mark has a higher BMI than John.
+Test data:
+§ Data 1: Marks weights 78 kg and is 1.69 m tall. John weights 92 kg and is 1.95
+m tall.
+§ Data 2: Marks weights 95 kg and is 1.88 m tall. John weights 85 kg and is 1.76
+m tall.
+GOOD LUCK 😀
