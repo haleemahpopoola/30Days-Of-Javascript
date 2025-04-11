@@ -20,7 +20,6 @@ No `if/else` clutter today 😌 — today was all about writing cleaner and more
 ## 🧪 Task Activities
 
 ### 1. Ternary Training
-- [x] Checked if a number is even or odd using ternary
 - [x] Used ternary to log if a user is a minor or adult
 - [x] Combined ternary with template literals for a clean message
 - [x] Nested a ternary for grading: `Excellent`, `Good`, or `Fail`

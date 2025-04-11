@@ -1,11 +1,11 @@
-'use strict'
+'use strict';
 //tassk activities//
 //Basic operetors & if/else statement & template litreals//
-const country ='Nigeria'
-let population =440/2
-population++
+const country ='Nigeria';
+let population =440/2;
+population++;
 console.log(population);
-const finLandPopulation =600
+const finLandPopulation =600;
 console.log(finLandPopulation);
 console.log(population===finLandPopulation);
 console.log(population!==finLandPopulation);
@@ -49,11 +49,11 @@ if (countryToLiveIn==='united states' &&countryToLiveInPopu<50 && !isNotIsland )
 } 
 //mini projects//
 
-const studentName ='haleemah'
-const score1 = 80
-const score2 = 85
-const score3 = 75
-const attendance =10//in percentage
+const studentName ='haleemah';
+const score1 = 80;
+const score2 = 85;
+const score3 = 75;
+const attendance =10;//in percentage
 console.log(studentName,score1, score2, score3, attendance);
 const avgScore =(score1 + score2 + score3)/3
 console.log(avgScore);
